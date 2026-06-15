@@ -96,7 +96,7 @@ npm run dev
 
 ## 📄 Citation
 If you find this project or the associated research useful, please cite the IEEE paper:
-> **P. V. S. Nag, et al.,** *"A Hybrid Machine Learning Framework for Personalized Weight Loss through Protein Intake Pattern Analysis,"* IEEE Xplore, 2026. [DOI/Link: 11497296](https://ieeexplore.ieee.org/document/11497296)
+> **P. Venkata Sri Nag, et al.,** *"A Hybrid Machine Learning Framework for Personalized Weight Loss through Protein Intake Pattern Analysis,"* IEEE Xplore, 2026. [Link: 11497296](https://ieeexplore.ieee.org/document/11497296)
 
 ## 👨‍💻 My Self
 **P Venkata Sri Nag** [LinkedIn](https://www.linkedin.com/in/p-v-srinag) | [GitHub](https://github.com/p-v-srinag)
